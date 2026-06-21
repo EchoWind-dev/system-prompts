@@ -9,7 +9,7 @@
 | 产品 | 模式 | 语言 | 日期 |
 |---------|------|----------|------|
 | [DeepSeek Web (快速模式)](deepseek/web-fast-mode.md) | 快速 | 简体中文 | 2026-06-21 |
-| [DeepSeek Web (专业模式)](deepseek/web-professional-mode.md) | 专业 | 简体中文 | 2026-06-21 |
+| [DeepSeek Web (专业模式)](deepseek/web-professional-mode.md) | 专业 | English | 2026-06-21 |
 
 ## 说明
 

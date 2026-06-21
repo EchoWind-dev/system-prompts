@@ -9,7 +9,7 @@ A curated collection of system prompts from various AI products and services —
 | Product | Mode | Language | Date |
 |---------|------|----------|------|
 | [DeepSeek Web (Fast Mode)](deepseek/web-fast-mode.md) | Fast | 简体中文 | 2026-06-21 |
-| [DeepSeek Web (Professional Mode)](deepseek/web-professional-mode.md) | Professional | 简体中文 | 2026-06-21 |
+| [DeepSeek Web (Professional Mode)](deepseek/web-professional-mode.md) | Professional | English | 2026-06-21 |
 
 ## Notes
 
